@@ -2,8 +2,7 @@ import { useCSSClass } from '../index';
 
 test('useCSSClass', () => {
   expect(
-    useCSSClass({
-      default: true,
+    useCSSClass('default', {
       notadded: false,
       added: true,
     }),
