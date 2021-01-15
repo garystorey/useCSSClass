@@ -1,6 +1,6 @@
 {
   "name": "usecssclass",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hook used to build css class/className to apply to elements",
   "main": "./dist/index.js",
   "types": "./dist/types.d.ts",
