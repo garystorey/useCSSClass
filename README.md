@@ -7,8 +7,7 @@ A small utility hook to concatonate CSS classNames objects into a string.
 ```js
 
 const value = 1;
-const classes = useCSSClass({
-    'default' : true,
+const classes = useCSSClass('default',{
     'notadded' : (value ===0),
     'added' : (value===1)
 });
