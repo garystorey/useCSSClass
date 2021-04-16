@@ -1,6 +1,6 @@
 # useCSSClass
 
-A small utility hook to concatonate CSS classNames objects into a string.
+A small utility hook to concatenate CSS classNames objects into a string.
 
 ## Example
 
